@@ -8,7 +8,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 
-<img align="right" alt="Coding" width="550" height="450" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
+<img align="right" alt="Coding" width="550" height="450" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanmataraarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanmataraarachchi" /> </p>
 
