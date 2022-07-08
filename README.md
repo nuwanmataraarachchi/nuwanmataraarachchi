@@ -13,8 +13,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanmataraarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanmataraarachchi" /> </p>
 
 
-- 🔭 I’m currently working on **Gaming Patform**
-
 - 🌱 I’m currently studying at **Faculty of Computing, Sri Lanka Institute of Information Technology**
 
 - 👯 I love to collaborate with **New Innovations**
